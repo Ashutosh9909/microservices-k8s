@@ -33,11 +33,3 @@ To use the microservice, you can send HTTP requests to the service's endpoint. H
 
 
 This should return a JSON response with a greeting message.
-
-## Contributing
-
-If you'd like to contribute to this project, please fork the repository and create a new branch. Pull requests are welcome!
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md]
